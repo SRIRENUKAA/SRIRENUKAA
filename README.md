@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Renuka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech. Information Technology**
 
-- 🌱 I’m currently learning **UI/UX Web Design, MERN Stack**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SRIRENUKAA](https://github.com/SRIRENUKAA)
 
